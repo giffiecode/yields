@@ -1,1 +1,1 @@
-building a spreadsheet for yields of different products  
+building a spreadsheet for yields of different yielding products 
